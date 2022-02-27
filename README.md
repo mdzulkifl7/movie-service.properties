@@ -1,1 +1,1 @@
-# movie-service.properties
+ movie-service.properties
